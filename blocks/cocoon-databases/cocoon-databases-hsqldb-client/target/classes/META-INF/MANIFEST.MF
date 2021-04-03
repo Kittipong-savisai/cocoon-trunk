@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: THIS PC
+Build-Jdk: 16
+Specification-Title: Cocoon Hsqldb Client Implementation
+Specification-Version: 1.1.0-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Cocoon Hsqldb Client Implementation
+Implementation-Version: 1.1.0-SNAPSHOT
+Implementation-Vendor-Id: org.apache.cocoon
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+Cocoon-Block-Name: cocoon-databases-hsqldb-client
+
